@@ -1,10 +1,10 @@
 {
 	"name": "codemirror-spell-checker",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"description": "Dead-simple spell checking in CodeMirror.",
 	"keywords": ["codemirror", "code", "mirror", "spell", "checker", "checking", "spellchecker", "javascript"],
 	"homepage": "https://github.com/NextStepWebs/codemirror-spell-checker",
-	"main": "gulpfile.js",
+	"main": "src/js/spell-checker.js",
 	"license": "MIT",
 	"company": "Next Step Webs, Inc.",
 	"author": {
