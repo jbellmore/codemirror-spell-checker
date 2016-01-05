@@ -4,7 +4,7 @@
 	"description": "Dead-simple spell checking in CodeMirror.",
 	"keywords": ["codemirror", "code", "mirror", "spell", "checker", "checking", "spellchecker", "javascript"],
 	"homepage": "https://github.com/NextStepWebs/codemirror-spell-checker",
-	"main": "src/js/spell-checker.js",
+	"main": "dist/spell-checker.min.js",
 	"license": "MIT",
 	"company": "Next Step Webs, Inc.",
 	"author": {
